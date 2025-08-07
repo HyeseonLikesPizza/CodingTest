@@ -38,7 +38,7 @@ int main() {
     string str;
 
     vector<int> vec;
-    //FILE* fp;
+    FILE* fp;
     
     cin.tie(NULL); cout.tie(NULL); ios::sync_with_stdio(false);
     //freopen("input.txt", "rt", stdin);
